@@ -1,0 +1,14 @@
+
+* { user-select: none; }
+
+*::selection { background: none; }
+
+*::-moz-selection { background: none; }
+
+.container {
+ margin: 30px
+}
+
+.row {
+    padding: 30px;
+}
